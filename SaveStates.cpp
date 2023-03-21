@@ -1,14 +1,5 @@
 /*
- * In addition to spontaneous changetype, here vesicles can spontaneously 
- * sidestep as well. Forked from ProductiveTurnback.
  * 
- */
-
-/* 
- * File:   main.cpp
- * Author: tvinodkumar
- *
- * Created on 23 October, 2017, 2:41 PM
  */
 
 #include <cstdlib>

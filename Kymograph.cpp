@@ -1,6 +1,5 @@
 /*
- * System configuration:
- * 1. Store the compartment information
+ * 
  *
  *
  */
